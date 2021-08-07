@@ -2,11 +2,11 @@
 
 AGCN-T
 ===
-Propose an AGCN-T: a traffic flow prediction model based on temporal and spatial network dynamics.
+A method of temporal and spatial  network dynamics  based traffic flow prediction model (AGCN-T) is proposed to predict traffic flow
 
 Thank you for your interests in our work!
 
-The dataset we ultilized for training and testin is reposited in github.
+The dataset used by AGCN-T for training and testing is deposited here in AGCN-T/dataset.
 
 Dataset Sources
 ===
@@ -17,8 +17,6 @@ The traffic flow data used in the experiment comes from the Internet. The three 
 
 The data download link contains a list of files:
 ===
-* ```Los_Cov.csv``` is the feature matrix processed by the covariance of the ```LOS``` data set
-* ```Los_pps.csv``` is the feature matrix of the ```LOS``` data set after PPS processing 
 * ```Los_V_207.csv``` is the feature matrix of the ```LOS``` dataset
 * ```Los_W_207.csv```  is the adjacency matrix of the ```LOS``` dataset
   
