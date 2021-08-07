@@ -15,9 +15,15 @@ The traffic flow data used in the experiment comes from the Internet. The three 
 <BR>[Los-Loop data set](https://github.com/I-am-YuLang/T-GCN/tree/master/data)
 <BR>[PemsD7 data set](https://github.com/I-am-YuLang/STGCN/tree/master/datasets)
 
-Pretreatment
+The data download link contains a list of files:
 ===
-Three data sets were preprocessed in the experiment. The matrix for covariance processing of the ```LOS``` data set is ```LOS_COV```, and the matrix for PPS processing of the LOS data set is ```LOS_PPS```. The original data is ```LOS_V_207``` representing the velocity characteristic matrix, and the naming rules for the remaining ```PEMAD7``` and ```Seattle``` data sets are the same as above.
+* ```Los_Cov.csv``` is the covariance processed matrix of the ```LOS``` data set
+* ```Los_pps.csv```  is the temporal series matrix of the ```LOS``` data set processed by PPS
+* ```Los_V_207.csv``` is the feature matrix of the ```LOS``` dataset
+* ```Los_W_207.csv```  is the adjacency matrix of the ```LOS``` dataset
+  
+Other data set naming rules are the same as ```LOS``` data set
+  
 
 ## Usage Policy and Legal Disclaimer
 This dataset is being distributed only for Research purposes, under [Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). By clicking on the download buttons, you are agreeing to use this data only for non-commercial, research, or academic applications. You may cite the above paper if you use this dataset.  
