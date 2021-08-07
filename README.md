@@ -2,7 +2,7 @@
 
 AGCN-T
 ===
-A spatio-temporal network dynamic traffic flow prediction model (AGCN-T) method is proposed for multi-step traffic flow prediction
+A spatio-temporal network dynamic traffic flow prediction model (AGCN-T) method is proposed for multi-step traffic flow prediction.
 
 Thank you for your interests in our work!
 
@@ -11,7 +11,7 @@ The dataset used by AGCN-T for training and testing is deposited here in AGCN-T/
 Dataset Sources
 ===
 The traffic flow data used in the experiment comes from the Internet. The three data sets were collected by the California Department of Transportation, Seattle and Los Angeles. Among them.
-* the ```PemsD7``` traffic data set consists of more than 39,000 sensor stations distributed in the major metropolitan areas of the California State Highway System (CalTrans) selected 228 site data. 
+* The ```PemsD7``` traffic data set consists of more than 39,000 sensor stations distributed in the major metropolitan areas of the California State Highway System (CalTrans) selected 228 site data. 
     * ```PemsD7_V_228.csv``` represents the speed characteristic matrix collected by the California State Highway System (CalTrans) sensor
     * ```PemsD7_V_228.csv``` represents the adjacency matrix of the road network of California highways
 * The Seattle traffic data set is composed of highways distributed in ```Seattle```,and  the system contains a speed data set of 323 sensors in 2015 with a sampling interval of 5 minutes.
