@@ -8,14 +8,14 @@ The dataset we ultilized for training and testin is reposited in github.
 
 Dataset Sources
 ===
-The traffic flow data used in the experiment comes from the Internet. The three data sets were collected by the California Department of Transportation, Seattle and Los Angeles. Among them, the PemsD7 traffic data set consists of more than 39,000 sensor stations distributed in the major metropolitan areas of the California State Highway System (CalTrans) selected 228 site data. The Seattle traffic data set is composed of highways distributed in Seattle,and  the system contains a speed data set of 323 sensors in 2015 with a sampling interval of 5 minutes. Los-Loop Traffic Data Set: This data set was collected in real time on the highway in Los Angeles County, and we selected 207 sensors and their traffic speeds from March 1 to March 7, 2012.
+The traffic flow data used in the experiment comes from the Internet. The three data sets were collected by the California Department of Transportation, Seattle and Los Angeles. Among them, the ```PemsD7``` traffic data set consists of more than 39,000 sensor stations distributed in the major metropolitan areas of the California State Highway System (CalTrans) selected 228 site data. The Seattle traffic data set is composed of highways distributed in ```Seattle```,and  the system contains a speed data set of 323 sensors in 2015 with a sampling interval of 5 minutes. ```Los-Loop``` Traffic Data Set: This data set was collected in real time on the highway in Los Angeles County, and we selected 207 sensors and their traffic speeds from March 1 to March 7, 2012.
 <BR>[Seattle data set](https://github.com/I-am-YuLang/Seattle-Loop-Data)
 <BR>[Los-Loop data set](https://github.com/I-am-YuLang/T-GCN/tree/master/data)
 <BR>[PemsD7 data set](https://github.com/I-am-YuLang/STGCN/tree/master/datasets)
 
 Pretreatment
 ===
-
+Three data sets were preprocessed in the experiment. The matrix for covariance processing of the ```LOS``` data set is ```LOS_COV```, and the matrix for PPS processing of the LOS data set is ```LOS_PPS```. The original data is ```LOS_V_207``` representing the velocity characteristic matrix, and the naming rules for the remaining ```PEMAD7``` and ```Seattle``` data sets are the same as above.
 
 Contact
 ===
