@@ -18,7 +18,7 @@ The traffic flow data used in the experiment comes from the Internet. The three 
 The data download link contains a list of files:
 ===
 * ```Los_Cov.csv``` is the feature matrix processed by the covariance of the ```LOS``` data set
-* ```Los_pps.csv``` is the feature matrix of the ```LOS``` data set processed by PPS
+* ```Los_pps.csv``` is the feature matrix of the ```LOS``` data set processed by PPS 
 * ```Los_V_207.csv``` is the feature matrix of the ```LOS``` dataset
 * ```Los_W_207.csv```  is the adjacency matrix of the ```LOS``` dataset
   
