@@ -32,4 +32,4 @@ Contact
 ===
 You can download this notebook as well as the well-organized dataset for training and testing. The toy example for visualization is in SPHDM Respository. If you find this work interesting and helpful to your work, please find the citation of the papers as below. Thank you very much. Any question you can email to fengjian@xust.edu.cn
 
-@inproceedings{feng2021SPHDM, title={AGCN-T: A traffic flow prediction model for spatial-temporal network dynamics}, author={Jian Feng, Yu Lang and Rui Ma }}
+@inproceedings{feng2021AGCN-T, title={AGCN-T: A traffic flow prediction model for spatial-temporal network dynamics}, author={Jian Feng, Yu Lang and Rui Ma }}
