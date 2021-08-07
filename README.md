@@ -17,7 +17,7 @@ The traffic flow data used in the experiment comes from the Internet. The three 
 * The Seattle traffic data set is composed of highways distributed in ```Seattle```,and  the system contains a speed data set of 323 sensors in 2015 with a sampling interval of 5 minutes.
    * ```Seattle_V_323.csv```  represents the speed characteristic matrix collected by Seattle highway sensors.
    * ```Seattle_V_323.csv```  represents the adjacency matrix of the road network of Seattle highway.
-* ```Los-Loop``` Traffic Data Set: This data set was collected in real time on the highway in Los Angeles County, and we selected 207 sensors and their traffic speeds from March 1 to March 7, 2012
+* ```Los-Loop``` Traffic Data Set: This data set was collected in real time on the highway in Los Angeles County, and we selected 207 sensors and their traffic speeds from March 1 to March 7, 2012.
    * ```Los_V_207.csv```represents the velocity characteristic matrix collected by the sensor.
    * ```Los_W_207.csv```  represents the road network adjacency matrix of Los Angeles County.
   
