@@ -13,10 +13,10 @@ Dataset Sources
 The traffic flow data used in the experiment comes from the Internet. The three data sets were collected by the California Department of Transportation, Seattle and Los Angeles. Among them.
 * The ```PemsD7``` traffic data set consists of more than 39,000 sensor stations distributed in the major metropolitan areas of the California State Highway System (CalTrans) selected 228 site data. 
     * ```PemsD7_V_228.csv``` represents the speed characteristic matrix collected by the California State Highway System (CalTrans) sensor.
-    * ```PemsD7_V_228.csv``` represents the adjacency matrix of the road network of California highways.
+    * ```PemsD7_W_228.csv``` represents the adjacency matrix of the road network of California highways.
 * The ```Seattle``` traffic data set is composed of highways distributed in ```Seattle```,and  the system contains a speed data set of 323 sensors in 2015 with a sampling interval of 5 minutes.
    * ```Seattle_V_323.csv```  represents the speed characteristic matrix collected by Seattle highway sensors.
-   * ```Seattle_V_323.csv```  represents the adjacency matrix of the road network of Seattle highway.
+   * ```Seattle_W_323.csv```  represents the adjacency matrix of the road network of Seattle highway.
 * ```Los-Loop``` Traffic Data Set: This data set was collected in real time on the highway in Los Angeles County, and we selected 207 sensors and their traffic speeds from March 1 to March 7, 2012.
    * ```Los_V_207.csv```represents the velocity characteristic matrix collected by the sensor.
    * ```Los_W_207.csv```  represents the road network adjacency matrix of Los Angeles County.
@@ -27,6 +27,6 @@ This dataset is being distributed only for Research purposes, under [Creative Co
   
 Contact
 ===
-You can download this notebook as well as the well-organized dataset for training and testing. The toy example for visualization is in SPHDM Respository. If you find this work interesting and helpful to your work, please find the citation of the papers as below. Thank you very much. Any question you can email to fengjian@xust.edu.cn.
+You can download this notebook as well as the well-organized dataset for training and testing. The toy example for visualization is in SPHDM Respository. If you find this work interesting and helpful to your work, please find the citation of the papers as below. Thank you very much. Any question you can email to actour@163.com.
 
 @inproceedings{feng2021AGCN-T, title={AGCN-T: A traffic flow prediction model for spatial-temporal network dynamics}, author={Jian Feng, Yu Lang and Rui Ma }}
