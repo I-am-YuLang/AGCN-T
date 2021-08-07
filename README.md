@@ -1,3 +1,5 @@
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
 SPHDM
 ===
 Propose an AGCN-T: a traffic flow prediction model based on temporal and spatial network dynamics.
@@ -17,6 +19,9 @@ Pretreatment
 ===
 Three data sets were preprocessed in the experiment. The matrix for covariance processing of the ```LOS``` data set is ```LOS_COV```, and the matrix for PPS processing of the LOS data set is ```LOS_PPS```. The original data is ```LOS_V_207``` representing the velocity characteristic matrix, and the naming rules for the remaining ```PEMAD7``` and ```Seattle``` data sets are the same as above.
 
+## Usage Policy and Legal Disclaimer
+This dataset is being distributed only for Research purposes, under [Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). By clicking on the download buttons, you are agreeing to use this data only for non-commercial, research, or academic applications. You may cite the above paper if you use this dataset.  
+  
 Contact
 ===
 You can download this notebook as well as the well-organized dataset for training and testing. The toy example for visualization is in SPHDM Respository. If you find this work interesting and helpful to your work, please find the citation of the papers as below. Thank you very much. Any question you can email to fengjian@xust.edu.cn
